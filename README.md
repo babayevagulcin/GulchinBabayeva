@@ -1,5 +1,5 @@
-# GulchinBabayeva
-
+<h1>Hi 👋, I'm Gulchin Babayeva</h1>
+<h3 align="center">Front-end Developer</h3>
 ## **<div>𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 👩‍💻🚀</div>**  
   
 
@@ -18,7 +18,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gulchin-babayeva-67527b218/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
