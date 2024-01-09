@@ -1,6 +1,6 @@
 # GulchinBabayeva
-𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
-## **<div align="center">Front-end Developer 👩‍💻🚀</div>**  
+
+## **<div>𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 👩‍💻🚀</div>**  
   
 
 <br/>  
@@ -33,7 +33,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babayevagulcin&hide_border=true&layout=compact" align="center" /></div>  
+<div ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babayevagulcin&hide_border=true&layout=compact" align="center" /></div>  
 <br/>  
 <br/>  
 
