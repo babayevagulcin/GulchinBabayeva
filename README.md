@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Gulchin Babayeva</h1>
-<h3 align="center">Front-end Developer</h3>
 ## **<div>𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 👩‍💻🚀</div>**  
   
 
